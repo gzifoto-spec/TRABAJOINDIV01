@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    * {
+    box-sizing: border-box;
+    }
+
+    body {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Style the header */
+    .header {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    }
+
+    /* Create three equal columns that floats next to each other */
+    .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+    /* Style the footer */
+    .footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    }
+
+    /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+    @media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+    }
+</style>
+</head>
+<body>
+
+    <h2>Homenaje a Stanislaw Lem, cread de mundos</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nemo inventore quam illum. Assumenda, quos nihil est totam quis sequi veniam. Voluptas natus ut deserunt, est mollitia ratione et cupiditate!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ipsum accusantium non quo id expedita omnis, nemo corporis nihil cupiditate eligendi nobis facere quasi rem repellendus magnam voluptates explicabo consequatur.</p>
+
+    <div class="header">
+    <h2>El Reino de Monstrogritería</h2>
+    </div>
+
+    <div class="row">
+    <div class="column" style="background-color:#aaa;">
+        <p>El Reino de Monstrogritería es un estado soberano ubicado en el planeta Garganciano. Su sistema político es una Monarquía Absoluta, encabezada por el Rey Monstrogrito, miembro de la dinastía Bartolina de los Cien Ojos, considerada la más longeva y vigilante del Reino de Monstrogritería. El reino posee una extensión territorial de 505.370 km² y su capital es la ciudad de Ciberópolis, centro neurálgico de su rígida burocracia y su peculiar cultura política.</p>
+        <h3>Geografía</h3>
+            Monstrogritería ocupa la mitad occidental del continente único de Mirpia. Su situación geográfica es extraordinaria por la presencia de una frontera perfectamente recta que lo divide del estado vecino y eterno enemigo, Monstropitería, asentado en la mitad oriental y dirigido con mano de hierro por el sátrapa Monstropito I, eterno enemigo de Monstrogrito.
+
+De acuerdo con las crónicas cartográficas gargancianas, la orografía de ambos países es exacta y especular, como si uno fuera la imagen invertida del otro. Esta simetría territorial es presentada por ambos estados como una “provocación natural” que justifica su conflicto perpetuo.
+
+Las principales ciudades del reino incluyen:
+        <h3>Historia</h3>
+    </div>
+    <div class="column" style="background-color:#bbb;">Column</div>
+    <div class="column" style="background-color:#ccc;">Column</div>
+    </div>
+
+    <div class="footer">
+    <p>Footer</p>
+    </div>
+
+</body>
+</html>
+
+
