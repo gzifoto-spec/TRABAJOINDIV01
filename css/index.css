@@ -16,6 +16,7 @@
 header{
     border-style: solid;
     margin-left: 20%;
+    background-color: rgb(224, 223, 223);
 }
 .upperlinks{
     text-align: right;
@@ -44,7 +45,7 @@ h4{
     padding-right: 1%;
 }
 img{
-    padding-top: 5%%;
+    padding-top: 5%;
     margin: 16%;
 }
 .sidetext{
