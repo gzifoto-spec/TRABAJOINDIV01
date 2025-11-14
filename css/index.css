@@ -40,6 +40,10 @@ a:hover, a:active {
     padding-left: 5%;
     padding-right: 5%;
 }
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
 h4{
     text-align: right;
     padding-right: 1%;
@@ -57,4 +61,5 @@ footer{
     border-style: solid;
     margin-left: 20%;
     padding-left: 5%;
+    padding-bottom: 1%;
 }
