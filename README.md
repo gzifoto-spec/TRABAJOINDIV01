@@ -43,9 +43,9 @@ This project is licensed under the **[MIT License](https://opensource.org/licens
 - Project: [TRABAJOINDIV01](https://github.com/gzifoto-spec/TRABAJOINDIV01)  
 - Website: https://gzifoto-spec.github.io/TRABAJOINDIV01/
 
+TODO LIST*******
+css cleaning
+
 ---
 
 Thank you for checking out this project! If you have suggestions or want to contribute, feel free to open a pull request or get in touch.  
-
-TODO LIST*******
-css cleaning
