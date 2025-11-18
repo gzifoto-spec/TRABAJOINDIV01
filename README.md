@@ -1,38 +1,58 @@
 # TRABAJOINDIV01
 
-# 📷 Proyecto TRABAJOINDIV01
+# 📷 Proyect TRABAJOINDIV01
+Repository for the **TRABAJOINDIV01** project, hosted on GitHub Pages:  
+https://gzifoto-spec.github.io/TRABAJOINDIV01/
 
-**TRABAJOINDIV01** es una página web estática (GitHub Pages) desarrollada para presentar un país imaginario. Está construida con HTML y CSS.
+## 🧭 Project Description
 
-## 🧭 Descripción del proyecto
+**TRABAJOINDIV01** This is a static website designed to present an **imaginary country**. Built with HTML and CSS, the site offers a clean, user-friendly navigation and a minimalistic aesthetic focused on highlighting visual content.
 
-Este sitio web tiene como objetivo mostrar una página sobre un país imaginario, con una navegación sencilla, un diseño limpio y enfocado en la experiencia del usuario:
+Key parts of the website:
 
-- Página de inicio / presentación   
-- Diseño responsive para que funcione bien en móviles y ordenadores  
-- Estética minimalista para destacar las imágenes  
+- Landing / presentation page  
+- Responsive design that works well on both mobile and desktop devices  
+- Minimalist style to emphasize images  
 
-## 🛠️ Tecnologías usadas
+## 🛠 Technologies Used
 
-- HTML5  
-- CSS3 (uso de Flexbox)  
-- GitHub Pages para el despliegue  
+- **HTML5**  
+- **CSS3** (using Flexbox)  
+- **GitHub Pages** for deployment  
 
-## 🚀 Cómo ver el sitio
+---
 
-Puedes ver la página en vivo aquí:  
-[https://gzifoto-spec.github.io/TRABAJOINDIV01/]
+## 🚀 How to View the Live Site
+
+You can view the live version here:  
+[https://gzifoto-spec.github.io/TRABAJOINDIV01/](https://gzifoto-spec.github.io/TRABAJOINDIV01/)
+
+---
 
 <img src="img/Screenshot2025-11-18.png">
 
-📄 Licencia
+## 📁 Project Structure
 
-Este proyecto está bajo la licencia [MIT](https://mit-license.org/)
+TRABAJOINDIV01/
+├── index.html
+├── css/
+│ └── index.css
+├── img/
+│ └── … (image files)
+└── pres/ (presentation)
 
-📫 Contacto
+## ✅ License
 
-GitHub: gzifoto-spec
-Proyecto: TRABAJOINDIV01
-Página web: https://gzifoto-spec.github.io/TRABAJOINDIV01/
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
 
-¡Gracias por visitar este proyecto! Si tienes sugerencias o quieres contribuir, por favor abre un pull request o contacta conmigo.
+---
+
+## 📫 Contact
+
+- GitHub: [gzifoto-spec](https://github.com/gzifoto-spec)  
+- Project: [TRABAJOINDIV01](https://github.com/gzifoto-spec/TRABAJOINDIV01)  
+- Website: https://gzifoto-spec.github.io/TRABAJOINDIV01/
+
+---
+
+Thank you for checking out this project! If you have suggestions or want to contribute, feel free to open a pull request or get in touch.  
