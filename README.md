@@ -31,16 +31,6 @@ You can view the live version here:
 
 <img src="img/Screenshot2025-11-18.png">
 
-## 📁 Project Structure
-
-TRABAJOINDIV01/
-├── index.html
-├── css/
-│ └── index.css
-├── img/
-│ └── … (image files)
-└── pres/ (presentation)
-
 ## ✅ License
 
 This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
