@@ -24,3 +24,15 @@ Puedes ver la página en vivo aquí:
 [https://gzifoto-spec.github.io/TRABAJOINDIV01/]
 
 <img src="img/Screenshot2025-11-18.png">
+
+📄 Licencia
+
+Este proyecto está bajo la licencia [MIT](https://mit-license.org/)
+
+📫 Contacto
+
+GitHub: gzifoto-spec
+Proyecto: TRABAJOINDIV01
+Página web: https://gzifoto-spec.github.io/TRABAJOINDIV01/
+
+¡Gracias por visitar este proyecto! Si tienes sugerencias o quieres contribuir, por favor abre un pull request o contacta conmigo.
